@@ -1,1 +1,1 @@
-# H3-chip
+# H3chip
