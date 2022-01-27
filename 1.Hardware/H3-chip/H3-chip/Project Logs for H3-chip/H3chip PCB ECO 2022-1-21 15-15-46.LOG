@@ -1,0 +1,13 @@
+Added Component: Designator=J2(TF-021B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SDC0_D2 Pin=J2-1
+Added Pin To Net: NetName=SDC0_D3 Pin=J2-2
+Added Pin To Net: NetName=SDC0_CMD Pin=J2-3
+Added Pin To Net: NetName=VDD_SYS_3.3V Pin=J2-4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=SDC0_DET Pin=J2-6
+Added Pin To Net: NetName=SDC0_D0 Pin=J2-7
+Added Pin To Net: NetName=SDC0_D1 Pin=J2-8
+Added Pin To Net: NetName=SDC0_DET Pin=J2-9
+Added Pin To Net: NetName=SDC0_DET Pin=J2-10
+Added Member To Class: ClassName=Main Member=Component J2 TF-021B

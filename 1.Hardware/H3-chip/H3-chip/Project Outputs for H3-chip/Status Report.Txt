@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [H3-chip.PrjPcb]
+   Generated File[H3chip.GTO]
+   Generated File[H3chip.GTP]
+   Generated File[H3chip.GBP]
+   Generated File[H3chip.GBO]
+   Generated File[H3chip.RUL]
+   Generated File[H3chip.EXTREP]
+   Generated File[H3chip.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 0:36:19 On 2022/1/26

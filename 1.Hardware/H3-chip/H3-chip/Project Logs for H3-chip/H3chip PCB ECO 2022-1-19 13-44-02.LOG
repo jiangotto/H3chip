@@ -1,0 +1,44 @@
+Added Component: Designator=C52(CAP_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C53(CAP_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C54(CAP_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C55(CAP_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R34(RES_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(RES_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R36(RES_0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R37(RES_0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=MBIAS Pin=C52-2
+Added Pin To Net: NetName=MICIN1P Pin=C53-2
+Added Pin To Net: NetName=MICIN1N Pin=C55-2
+Added Pin To Net: NetName=MBIAS Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=MIC1N Pin=C55-1
+Added Pin To Net: NetName=MIC1N Pin=R36-2
+Added Net: Name=MIC1N
+Added Pin To Net: NetName=MIC1P Pin=C53-1
+Added Pin To Net: NetName=MIC1P Pin=R35-1
+Added Net: Name=MIC1P
+Added Pin To Net: NetName=NetC54_1 Pin=C54-1
+Added Pin To Net: NetName=NetC54_1 Pin=R36-1
+Added Pin To Net: NetName=NetC54_1 Pin=R37-2
+Added Net: Name=NetC54_1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=R34-1
+Added Pin To Net: NetName=NetC54_2 Pin=R35-2
+Added Net: Name=NetC54_2
+Added Member To Class: ClassName=Main Member=Component C52 1uF
+Added Member To Class: ClassName=Main Member=Component C53 0.1uF
+Added Member To Class: ClassName=Main Member=Component C54 10uF
+Added Member To Class: ClassName=Main Member=Component C55 0.1uF
+Added Member To Class: ClassName=Main Member=Component R34 1K
+Added Member To Class: ClassName=Main Member=Component R35 2K
+Added Member To Class: ClassName=Main Member=Component R36 2K
+Added Member To Class: ClassName=Main Member=Component R37 1K

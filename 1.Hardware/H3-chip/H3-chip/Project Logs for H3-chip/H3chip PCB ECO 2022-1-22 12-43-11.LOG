@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C50-1
+Removed Pin From Net: NetName=VDD_USB_5V Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=GPIOL2/USB0_DRVVBUS Pin=R29-2
+Removed Pin From Net: NetName=VDD_USB_5V Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=GPIOL2/USB0_DRVVBUS Pin=U7-4
+Removed Pin From Net: NetName=VDD_5V Pin=U7-5
+Removed Member From Class: ClassName=Main Member=C50
+Removed Member From Class: ClassName=Main Member=R28
+Removed Member From Class: ClassName=Main Member=R29

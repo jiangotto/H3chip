@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MICIN1P Pin=J1-41
+Removed Pin From Net: NetName=MICIN1N Pin=J1-43
+Removed Pin From Net: NetName=LINEOUTR Pin=J1-45
+Removed Pin From Net: NetName=LINEOUTL Pin=J1-47
+Added Pin To Net: NetName=LINEOUTR Pin=J1-41
+Added Pin To Net: NetName=LINEOUTL Pin=J1-43
+Added Pin To Net: NetName=MICIN1P Pin=J1-45
+Added Pin To Net: NetName=MICIN1N Pin=J1-47

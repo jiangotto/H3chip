@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=XOUT Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=XIN Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=X1-1
+Removed Pin From Net: NetName=XOUT Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-3
+Removed Pin From Net: NetName=XIN Pin=X1-4
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=XOUT Pin=C15-2
+Added Pin To Net: NetName=XIN Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=XIN Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=XOUT Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4

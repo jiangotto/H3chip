@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=UBOOT Pin=J1-44
+Removed Pin From Net: NetName=GPIOL4/RECOVERY Pin=J1-46
+Removed Pin From Net: NetName=GPIOL3/K1 Pin=J1-48
+Removed Pin From Net: NetName=AP-RESET# Pin=J1-50
+Removed Pin From Net: NetName=GPIOG11 Pin=J1-52
+Added Pin To Net: NetName=GPIOG11 Pin=J1-44
+Added Pin To Net: NetName=UBOOT Pin=J1-46
+Added Pin To Net: NetName=GPIOL4/RECOVERY Pin=J1-48
+Added Pin To Net: NetName=GPIOL3/K1 Pin=J1-50
+Added Pin To Net: NetName=AP-RESET# Pin=J1-52

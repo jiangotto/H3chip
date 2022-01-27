@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD_SYS_3.3V Pin=R32-2
+Removed Member From Class: ClassName=Main Member=R32
+Change Component Comment : Designator=J2 Old Comment=TF-018 New Comment=TF-021B
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=U1-G18
+Change Net Name : Old Net Name=GND New Net Name=SDC0_DET
