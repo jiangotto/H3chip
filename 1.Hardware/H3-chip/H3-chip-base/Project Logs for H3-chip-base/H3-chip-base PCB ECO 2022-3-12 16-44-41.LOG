@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AP-RESET# Pin=J2-3
+Removed Pin From Net: NetName=UBOOT Pin=J2-5
+Added Pin To Net: NetName=UBOOT Pin=J2-3
+Added Pin To Net: NetName=AP-RESET# Pin=J2-5

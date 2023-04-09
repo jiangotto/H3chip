@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=H3-chip-assembled.MbsDoc|Kind=Multi-board Schematic Module|Designator=BASE|Source=..\H3-chip-base\H3-chip-base.PrjPcb
+Record=SubProject|SourceDocument=H3-chip-assembled.MbsDoc|ProjectPath=..\H3-chip-base\H3-chip-base.PrjPcb
+Record=DiagramHierarchy|SourceDocument=H3-chip-assembled.MbsDoc|Kind=Multi-board Schematic Module|Designator=SOM|Source=..\H3-chip\H3-chip.PrjPcb
+Record=SubProject|SourceDocument=H3-chip-assembled.MbsDoc|ProjectPath=..\H3-chip\H3-chip.PrjPcb

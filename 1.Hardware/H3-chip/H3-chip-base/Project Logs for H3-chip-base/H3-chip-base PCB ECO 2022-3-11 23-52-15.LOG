@@ -1,0 +1,179 @@
+Added Component: Designator=C1(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(mini PCI-E×ù)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(2*14p 2.54mmÅÅÕë)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB1(USB typeA×ù)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB2(USB typeA×ù)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB3(MicroUSB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB4(USB typeA×ù)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AP-RESET# Pin=J1-48
+Added Pin To Net: NetName=AP-RESET# Pin=J2-3
+Added Net: Name=AP-RESET#
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-53
+Added Pin To Net: NetName=GND Pin=J1-54
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=GND Pin=J2-28
+Added Pin To Net: NetName=GND Pin=USB1-0
+Added Pin To Net: NetName=GND Pin=USB1-0
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB2-0
+Added Pin To Net: NetName=GND Pin=USB2-0
+Added Pin To Net: NetName=GND Pin=USB2-4
+Added Pin To Net: NetName=GND Pin=USB3-0
+Added Pin To Net: NetName=GND Pin=USB3-0
+Added Pin To Net: NetName=GND Pin=USB3-0
+Added Pin To Net: NetName=GND Pin=USB3-0
+Added Pin To Net: NetName=GND Pin=USB3-5
+Added Pin To Net: NetName=GND Pin=USB4-0
+Added Pin To Net: NetName=GND Pin=USB4-0
+Added Pin To Net: NetName=GND Pin=USB4-4
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIOA10/STATUS-LED Pin=J1-17
+Added Pin To Net: NetName=GPIOA10/STATUS-LED Pin=J2-23
+Added Net: Name=GPIOA10/STATUS-LED
+Added Pin To Net: NetName=GPIOG11 Pin=J1-52
+Added Pin To Net: NetName=GPIOG11 Pin=J2-2
+Added Net: Name=GPIOG11
+Added Pin To Net: NetName=GPIOG12/USB0_OTGID Pin=J1-51
+Added Pin To Net: NetName=GPIOG12/USB0_OTGID Pin=R1-2
+Added Pin To Net: NetName=GPIOG12/USB0_OTGID Pin=USB3-4
+Added Net: Name=GPIOG12/USB0_OTGID
+Added Pin To Net: NetName=GPIOL3/K1 Pin=J1-49
+Added Pin To Net: NetName=GPIOL3/K1 Pin=J2-7
+Added Net: Name=GPIOL3/K1
+Added Pin To Net: NetName=GPIOL4/RECOVERY Pin=J1-47
+Added Pin To Net: NetName=GPIOL4/RECOVERY Pin=J2-9
+Added Net: Name=GPIOL4/RECOVERY
+Added Pin To Net: NetName=GPIOL10/PWR-LED Pin=J1-45
+Added Pin To Net: NetName=GPIOL10/PWR-LED Pin=J2-11
+Added Net: Name=GPIOL10/PWR-LED
+Added Pin To Net: NetName=GPIOL11/IR-RX Pin=J1-43
+Added Pin To Net: NetName=GPIOL11/IR-RX Pin=J2-13
+Added Net: Name=GPIOL11/IR-RX
+Added Pin To Net: NetName=I2C0_SCL Pin=J1-20
+Added Pin To Net: NetName=I2C0_SCL Pin=J2-14
+Added Net: Name=I2C0_SCL
+Added Pin To Net: NetName=I2C0_SDA Pin=J1-18
+Added Pin To Net: NetName=I2C0_SDA Pin=J2-16
+Added Net: Name=I2C0_SDA
+Added Pin To Net: NetName=RPHY_LINK_LED Pin=J1-29
+Added Net: Name=RPHY_LINK_LED
+Added Pin To Net: NetName=RPHY_RXN Pin=J1-23
+Added Net: Name=RPHY_RXN
+Added Pin To Net: NetName=RPHY_RXP Pin=J1-21
+Added Net: Name=RPHY_RXP
+Added Pin To Net: NetName=RPHY_SPD_LED Pin=J1-19
+Added Net: Name=RPHY_SPD_LED
+Added Pin To Net: NetName=RPHY_TXN Pin=J1-27
+Added Net: Name=RPHY_TXN
+Added Pin To Net: NetName=RPHY_TXP Pin=J1-25
+Added Net: Name=RPHY_TXP
+Added Pin To Net: NetName=SPI0_CLK Pin=J1-12
+Added Pin To Net: NetName=SPI0_CLK Pin=J2-22
+Added Net: Name=SPI0_CLK
+Added Pin To Net: NetName=SPI0_CS Pin=J1-10
+Added Pin To Net: NetName=SPI0_CS Pin=J2-24
+Added Net: Name=SPI0_CS
+Added Pin To Net: NetName=SPI0_MISO Pin=J1-14
+Added Pin To Net: NetName=SPI0_MISO Pin=J2-20
+Added Net: Name=SPI0_MISO
+Added Pin To Net: NetName=SPI0_MOSI Pin=J1-16
+Added Pin To Net: NetName=SPI0_MOSI Pin=J2-18
+Added Net: Name=SPI0_MOSI
+Added Pin To Net: NetName=TV_OUT Pin=J1-30
+Added Pin To Net: NetName=TV_OUT Pin=J2-4
+Added Net: Name=TV_OUT
+Added Pin To Net: NetName=UART0_RX Pin=J1-44
+Added Net: Name=UART0_RX
+Added Pin To Net: NetName=UART0_TX Pin=J1-46
+Added Net: Name=UART0_TX
+Added Pin To Net: NetName=UART1_CTS Pin=J1-24
+Added Pin To Net: NetName=UART1_CTS Pin=J2-10
+Added Net: Name=UART1_CTS
+Added Pin To Net: NetName=UART1_RTS Pin=J1-28
+Added Pin To Net: NetName=UART1_RTS Pin=J2-6
+Added Net: Name=UART1_RTS
+Added Pin To Net: NetName=UART1_RX Pin=J1-26
+Added Pin To Net: NetName=UART1_RX Pin=J2-8
+Added Net: Name=UART1_RX
+Added Pin To Net: NetName=UART1_TX Pin=J1-22
+Added Pin To Net: NetName=UART1_TX Pin=J2-12
+Added Net: Name=UART1_TX
+Added Pin To Net: NetName=UART2_CTS Pin=J1-31
+Added Pin To Net: NetName=UART2_CTS Pin=J2-21
+Added Net: Name=UART2_CTS
+Added Pin To Net: NetName=UART2_RTS Pin=J1-35
+Added Pin To Net: NetName=UART2_RTS Pin=J2-17
+Added Net: Name=UART2_RTS
+Added Pin To Net: NetName=UART2_RX Pin=J1-37
+Added Pin To Net: NetName=UART2_RX Pin=J2-15
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=J1-33
+Added Pin To Net: NetName=UART2_TX Pin=J2-19
+Added Net: Name=UART2_TX
+Added Pin To Net: NetName=UBOOT Pin=J1-50
+Added Pin To Net: NetName=UBOOT Pin=J2-5
+Added Net: Name=UBOOT
+Added Pin To Net: NetName=USB_DM0 Pin=J1-39
+Added Pin To Net: NetName=USB_DM0 Pin=USB3-2
+Added Net: Name=USB_DM0
+Added Pin To Net: NetName=USB_DM1 Pin=J1-40
+Added Pin To Net: NetName=USB_DM1 Pin=USB2-2
+Added Net: Name=USB_DM1
+Added Pin To Net: NetName=USB_DM2 Pin=J1-36
+Added Pin To Net: NetName=USB_DM2 Pin=USB4-2
+Added Net: Name=USB_DM2
+Added Pin To Net: NetName=USB_DM3 Pin=J1-32
+Added Pin To Net: NetName=USB_DM3 Pin=USB1-2
+Added Net: Name=USB_DM3
+Added Pin To Net: NetName=USB_DP0 Pin=J1-41
+Added Pin To Net: NetName=USB_DP0 Pin=USB3-3
+Added Net: Name=USB_DP0
+Added Pin To Net: NetName=USB_DP1 Pin=J1-42
+Added Pin To Net: NetName=USB_DP1 Pin=USB2-3
+Added Net: Name=USB_DP1
+Added Pin To Net: NetName=USB_DP2 Pin=J1-38
+Added Pin To Net: NetName=USB_DP2 Pin=USB4-3
+Added Net: Name=USB_DP2
+Added Pin To Net: NetName=USB_DP3 Pin=J1-34
+Added Pin To Net: NetName=USB_DP3 Pin=USB1-3
+Added Net: Name=USB_DP3
+Added Pin To Net: NetName=VDD_5V Pin=C1-1
+Added Pin To Net: NetName=VDD_5V Pin=C2-1
+Added Pin To Net: NetName=VDD_5V Pin=C3-1
+Added Pin To Net: NetName=VDD_5V Pin=J1-5
+Added Pin To Net: NetName=VDD_5V Pin=J1-7
+Added Pin To Net: NetName=VDD_5V Pin=J2-25
+Added Pin To Net: NetName=VDD_5V Pin=USB1-1
+Added Pin To Net: NetName=VDD_5V Pin=USB2-1
+Added Pin To Net: NetName=VDD_5V Pin=USB4-1
+Added Net: Name=VDD_5V
+Added Pin To Net: NetName=VDD_SYS_3.3V Pin=J1-9
+Added Pin To Net: NetName=VDD_SYS_3.3V Pin=J1-11
+Added Pin To Net: NetName=VDD_SYS_3.3V Pin=J2-27
+Added Pin To Net: NetName=VDD_SYS_3.3V Pin=R1-1
+Added Net: Name=VDD_SYS_3.3V
+Added Pin To Net: NetName=VDD_USB_5V Pin=J1-1
+Added Pin To Net: NetName=VDD_USB_5V Pin=J1-3
+Added Pin To Net: NetName=VDD_USB_5V Pin=USB3-1
+Added Net: Name=VDD_USB_5V
+Added Class: Name=H3-chip-base

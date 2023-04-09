@@ -1,0 +1,3 @@
+Change component parameters: Designator = "J1"; Footprint = "mini PCI-E×ù"; UniqueID = "\HWXWSMPB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"

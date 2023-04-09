@@ -1,0 +1,10 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C2 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C3 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=J1 Old Footprint=mini PCI-E×ù New Footprint=mini PCI-E×ù
+Change Physical Footprint: Designator=J2 Old Footprint=2*14p 2.54mmÅÅÕë New Footprint=2*14p 2.54mmÅÅÕë
+Change Physical Footprint: Designator=R1 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=USB1 Old Footprint=USB typeA×ù New Footprint=USB typeA×ù
+Change Physical Footprint: Designator=USB2 Old Footprint=USB typeA×ù New Footprint=USB typeA×ù
+Change Physical Footprint: Designator=USB3 Old Footprint=MicroUSB New Footprint=MicroUSB
+Change Physical Footprint: Designator=USB4 Old Footprint=USB typeA×ù New Footprint=USB typeA×ù
